@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-[Projeto simples de Inteligência Artificial](/IACavaleirosZodiaco)
+[Projeto simples de Inteligência Artificial](https://oprofeta.github.io/IACavaleirosZodiaco)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
